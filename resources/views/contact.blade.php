@@ -9,7 +9,8 @@
 
 						<div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
 							<span class="intro-text-small">Don't be shy</span>
-							<h1>Get In Touch</h1>
+							<h1>Get In Touch</h1> <hr>
+							<pre> for more info please fill in our form</pre>
 						</div>
 
 					</div>

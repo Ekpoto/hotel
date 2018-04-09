@@ -12,7 +12,8 @@
 
 						<div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
 							<span class="intro-text-small">See Our</span>
-							<h1>Awesome Features</h1>
+							<h1>Awesome Features</h1> <hr>
+							<pre> this where you want to been</pre>
 						</div>
 
 					</div>
